@@ -1,0 +1,14 @@
+package com.EBMS.sdpproject.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Customer 
+{
+	private int id;
+	private String name;
+	private long mobileno;
+	private String email;
+	private String password;
+
+}

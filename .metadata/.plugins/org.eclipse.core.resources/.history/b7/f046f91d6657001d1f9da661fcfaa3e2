@@ -1,0 +1,5 @@
+package com.EBMS.sdpproject.model;
+
+public class Customer {
+
+}

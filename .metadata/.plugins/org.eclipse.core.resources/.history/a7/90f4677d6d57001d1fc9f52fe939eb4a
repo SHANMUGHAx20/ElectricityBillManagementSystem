@@ -1,0 +1,12 @@
+package com.EBMS.sdpproject.service;
+
+import com.EBMS.sdpproject.model.Customer;
+
+import antlr.collections.List;
+
+public interface CustomerService 
+{
+	public Customer saveCustomer(Customer customer);
+	public List<Customer> getAllCustomers();
+
+}

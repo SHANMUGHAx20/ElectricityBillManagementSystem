@@ -1,0 +1,5 @@
+package com.EBMS.sdpproject.controller;
+
+public class CustomerController {
+
+}
